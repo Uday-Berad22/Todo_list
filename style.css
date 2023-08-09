@@ -1,0 +1,17 @@
+main{
+    background: yellow;
+    padding: 10px;
+    border-radius: 10px;
+}
+body{
+    background-color: antiquewhite;
+}
+.container{
+    background: pink;
+    color: purple;
+    border-radius: 10px;
+    text-decoration: solid;
+}
+.uday{
+    margin: 20px;
+}
